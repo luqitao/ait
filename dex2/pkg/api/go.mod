@@ -1,4 +1,4 @@
-module gomod.alauda.cn/ait/dex2/pkg/api/auth
+module gomod.alauda.cn/ait/dex2/pkg/api/auth/v1
 
 go 1.18
 
