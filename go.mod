@@ -1,4 +1,4 @@
-module github.com/ait/dex2
+module github.com/luqitao/ait/dex2
 
 go 1.18
 
